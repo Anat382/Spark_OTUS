@@ -1,0 +1,1 @@
+[[{"${BASE}/src/main/resources/taxi_zones.csv":["${BASE}/target/scala-2.12/classes/taxi_zones.csv"]},{"${BASE}/target/scala-2.12/classes/taxi_zones.csv":["${BASE}/src/main/resources/taxi_zones.csv"]}],{"${BASE}/src/main/resources/taxi_zones.csv":{"file":"file:///E:/Spark%20Developer%20OTUS/test/test_app/test_app/src/main/resources/taxi_zones.csv","lastModified":1679022428082}}]

@@ -1,0 +1,7 @@
+[debug] Including from cache: scala-library-2.12.7.jar
+[debug] Calculate mappings...
+[debug] Checking every *.class/*.jar file's SHA-1.
+[debug] Merging files...
+[debug] Merging 'META-INF\MANIFEST.MF' with strategy 'discard'
+[info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
+[info] Assembly up to date: E:\Spark Developer OTUS\test\test_app\test_app\target\scala-2.12\test_app-assembly-0.1.0-SNAPSHOT.jar
